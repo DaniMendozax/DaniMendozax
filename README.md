@@ -8,6 +8,7 @@ currently I work with languages like python and java, I have been a developer fo
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]() ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 [![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)]()[![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]()
 
-# 🌍 Por si deseas contactarme 👨‍💻 :
+# 🌍 If you wish to contact me 👨‍💻 :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel_Mendoza-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/danimendozax/)
-[![Email](https://img.shields.io/badge/danimendozajejen@gmail.com-mi_email_personal-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)]()
+
+[![Email](https://img.shields.io/badge/danimendozajejen@gmail.com-mi_personal_email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)]()
