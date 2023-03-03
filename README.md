@@ -11,4 +11,4 @@ currently I work with languages like python and java, I have been a developer fo
 # 🌍 If you wish to contact me 👨‍💻 :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel_Mendoza-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/danimendozax/)
 
-[![Email](https://img.shields.io/badge/danimendozajejen@gmail.com-mi_personal_email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)]()
+[![Email](https://img.shields.io/badge/danimendozajejen@gmail.com-my_personal_email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)]()
