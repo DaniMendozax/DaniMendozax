@@ -1,6 +1,6 @@
-# Hello! 👋🏻 My name is: Daniel Mendoza, I'm a back-end developer. 👨‍💻
+# Hello! 👋🏻 My name is: Daniel Mendoza, I'm a software developer. 👨‍💻
 
-My name is Daniel Steven Mendoza Jejen, I am a back-end developer,
+My name is Daniel Steven Mendoza Jejen, I am a softwaredeveloper,
 currently I work with languages like python and java, I have been a developer for more than a year and I love technology and the new challenges that are presented.
 
 # Skills:
